@@ -1,6 +1,6 @@
 # Embedded_Assembly_Coursework
 
-Coursework program for embedded computing module, completed in assembly. Code located in PROGRAM.S, .inc files are libraries.
+Coursework program for embedded computing module, completed in assembly. Code located in PROGRAM.S, .INC files are libraries.
  
  
 ## Coursework Brief
