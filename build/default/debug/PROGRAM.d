@@ -1,0 +1,2 @@
+build/default/debug\PROGRAM.i: PROGRAM.s ECH_1.inc ECH_EQU.INC VAR.INC \
+  ECH_VAR.INC ECH_SUB.INC ECH_INIT.INC
